@@ -10,33 +10,19 @@ I will have an AI guide students on everyday problems that they have on school. 
 
 ## Background
 
-* problem 1: It allows kids to fully understand problems that they don't understand.
-* problem 2: The AI will be able to analyze student's to identify any learning gaps that they have, which makes them more efficient.
-* etc.
+* Problem 1: It allows kids to fully understand problems that they don't understand.
+* Problem 2: The AI will be able to analyze student's to identify any learning gaps that they have, which makes them more efficient.
 
 
 ## How is it used?
 
 The student will type into the AI: "I need help with...." and the AI will start teaching them step by step. Any student can use it, ranging from middle school all the way the college. We have to make sure that the AI is up to date with all fields of education and should be tested by teachers to ensure proper use.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Kid](https://media.istockphoto.com/id/2027418433/photo/portrait-child-boy-studying-at-home-on-laptop.jpg?s=612x612&w=0&k=20&c=Oxzd7gcXwg6NazToNiU1aItBxS5FOXP13CDrPOkHs1o=)
 
-
-main()
-```
-
-
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Public education datasets    | Used for examples and general information   |
-| Open-Source language models  | Helps AI understand and respond clearly      |
+I will use public educational datasets for examples and general information, as well as open-source language models to help AI understand and respond clearly.
 
 ## Challenges
 
